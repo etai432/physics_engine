@@ -9,6 +9,7 @@ This project is a 2D physics engine developed in Rust to simulate the behavior o
 - Color Selection: Includes a color selector for customizing the colors of the circles.
 - Size and Weight: Circle size affects its weight, influencing its interaction with gravity and other circles.
 - Initial Speed: Users can set the initial speed of the circles for dynamic simulations.
+- press 'q' to exit the simulation anytime!
 
 ## Getting Started
 
