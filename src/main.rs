@@ -1,3 +1,4 @@
+mod physics_engine;
 fn main() {
-    println!("Hello, world!");
+    physics_engine::graphics::run();
 }
